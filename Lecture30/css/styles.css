@@ -5,3 +5,16 @@ body{
     background-color: #61122f;
     font-family: 'Oxygen', sans-serif;
 }
+
+#header-nav{
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img{
+    background: url('7.png') no-repeat;
+    width: 225px;
+    height: 225px;
+    margin: 10px 15px 10px 0;
+}
